@@ -1,0 +1,6 @@
+.clangd
+build/
+doxygen/
+**compile_commands.json
+package/linux/target/*rpm
+package/doc/target/*pdf
